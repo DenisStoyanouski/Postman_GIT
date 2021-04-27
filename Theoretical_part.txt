@@ -1,0 +1,16 @@
+Теоретическое задание.
+1) Какие есть виды тестирования. Расписать подробно о каждом.
+
+2) Что такое авторизация, аутентификация, валидация, идентификация.
+
+Authorization - is security mechanism to determine access levels or user/client privileges related to system resources including files, services, computer
+programs, data and applications features. This is the process of granting or denying access to a network resources which allows the user access to various
+resources based on the user's identity.
+
+Authentication - is the process of recognizing a user's identity. It is the mechanism of associating an incoming request with a set of identifying
+credentials. The credentials provided are compared to those on a file in a database of the authorized user's information on a local operating system or 
+within an authentication server.
+
+
+3) Распишите жизненный цикл бага.
+
