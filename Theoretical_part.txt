@@ -1,6 +1,16 @@
 Теоретическое задание.
 1) Какие есть виды тестирования. Расписать подробно о каждом.
 
+Static testing - is a testing technique which is used to check defects in software application without executing the code. Includes: Informal reviews,
+walkthroughs, technical review, inspection.
+
+Dynamic testing - is a software testing method used to test the dynamic behaviour of software code. The main purpose of dynamic testing is to test software
+with dynamic variables or variables which are not constant and finding weak areas in software runtime environment.
+
+White box testing - 
+Black box testing -
+Gray box method - 
+
 2) Что такое авторизация, аутентификация, валидация, идентификация.
 
 Authorization - is security mechanism to determine access levels or user/client privileges related to system resources including files, services, computer
