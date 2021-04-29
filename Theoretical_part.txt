@@ -6,7 +6,7 @@ walkthroughs, technical review, inspection.
 
 Dynamic testing - is a software testing method used to test the dynamic behaviour of software code. The main purpose of dynamic testing is to test software
 with dynamic variables or variables which are not constant and finding weak areas in software runtime environment.
-
+=================
 White box testing - technique in which internal structure, design and ciding of software are tested to verify flow of input-output and to improve design,
 usability and security. In white box testing, code is visible to testers.
 
@@ -16,7 +16,7 @@ and specifications.
 
 Gray box method - is a software testing technique to test a software product or application with partial knowledge of internal structure of the application.
 The purpose of grey box testing is to search and identify the defects due to improper code structure or improper use of applications.
-
+=================
 Unit testing - is a type of testing where individual units or components of a software are tested. The purpose it ot validate that each unit of software code
 performs as expected. Unit tests isolate a section of code and veirfy its correctness.
 
@@ -25,6 +25,16 @@ project consists of multiple software modules, coded by different programmers. T
 between this software modules when they are integrated.
 
 System testing - a test level that focuses on verifying that a systam as a whole meets specified requirements.
+=================
+smoke testing - testing that covers the main functionality of a component or system to determine whether it works properly before planned testing begins
+=================
+positive testing - is a type of testing which is performed on a software application by providing the valid data sets as an input. It check whether
+the software application behaves as expected with positive inputs or not.
+
+negative testing - a testing method performed on the software application by providing invalid or improper data sets as input. Ti checks whether
+the software application behaves as expected with the negative or unwanted user inputs.
+=================
+
 
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
