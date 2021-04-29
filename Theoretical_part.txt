@@ -34,7 +34,15 @@ the software application behaves as expected with positive inputs or not.
 negative testing - a testing method performed on the software application by providing invalid or improper data sets as input. Ti checks whether
 the software application behaves as expected with the negative or unwanted user inputs.
 =================
+usability testing - testing method for measuring how easy and user-friendly a software application is. Usability testing mainly focuses on user's 
+ease of using application, flexibility of application to hadle controls and ability of application too meet its objectives.
 
+accessibility testing - type of ST performed to ensure that the application being tested is usable by people with disabilities like hearing. color blindness,
+old age and other disadvantaged groups.
+
+interface testing - type which verifies whether the communication between two different software systems is done correctly.
+
+internationalization testing - 
 
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
