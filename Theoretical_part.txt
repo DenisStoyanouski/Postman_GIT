@@ -7,9 +7,15 @@ walkthroughs, technical review, inspection.
 Dynamic testing - is a software testing method used to test the dynamic behaviour of software code. The main purpose of dynamic testing is to test software
 with dynamic variables or variables which are not constant and finding weak areas in software runtime environment.
 
-White box testing - 
-Black box testing -
-Gray box method - 
+White box testing - technique in which internal structure, design and ciding of software are tested to verify flow of input-output and to improve design,
+usability and security. In white box testing, code is visible to testers.
+
+Black box testing - testing method in which the functionalities of software applications are tested without having knowledge of internal code structure,
+implementation details and internal path. BBT mainly focuses on input and output of software applications and it is entirely based on software requirements 
+and specifications.
+
+Gray box method - is a software testing technique to test a software product or application with partial knowledge of internal structure of the application.
+The purpose of grey box testing is to search and identify the defects due to improper code structure or improper use of applications.
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
 
