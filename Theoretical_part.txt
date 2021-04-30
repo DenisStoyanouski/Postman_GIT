@@ -77,8 +77,11 @@ the effect while multiple users perform the same action at the same time. The im
 >Regression testing - a type of software testing to confirm that a recent program or code change has not adversely affected existing features.
 >Re-testing - process to check specific test cases that are found with bugs in the final execution.
 =================
->Exploratory testing - 
->Ad hoc - 
+>Exploratory testing - a type of software testing where test case are not created in adcance but testers check system on the fly. They note down ideas
+about what to test before test execution. The focus of exploratory testing is more on testing as a "thinking" activity.
+>Ad hoc - informal or unstructured software testing type that aims to break the testing process in order to find possible defects or errors at an
+early possible stage. Ad hoc testing is done randomly and it is usually an unplanned acivity which does not follow any documentation and test design 
+techniques to create test cases.
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
 
