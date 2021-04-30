@@ -61,15 +61,20 @@ by passing ifferent parameters in different load scenarios.
 >Load testing (Capacity testing) - the process that simulates actual user load on any application or website. It checks how the application behaves during
 normal and high loads. This type of testing is applied when a development project nears to its completion.
 
->Scalability testing -
->Volume testing - 
+>Scalability testing - a non functional testing method that measures performance of a system or network when the number of user requests are scaled up or down.
+The purpose of Scalability testing is to ensure that the system can handle projected increase in user traffic, data volume, transaction counts frequency, etc.
+It tests system ability to meet the growing needs.
+
+>Volume testing - a type of ST where the software is subjected to a huge volume of data. It is also referred to as flood testing. Volume testing is
+done to analyze the system performance by increasing the volume of data in the database.
 
 >Stress testing - a type of testing that determines the stability and robustness of the system. It is a non-functional testing technique. This testing
 technique uses auto-generated simulation model that checks all the hypothetical scenarios.
 
->Concurrency testing 
+>Concurrency testing - testing technique to detect the defects in an application when multiple users are logged in. In other words monitoring
+the effect while multiple users perform the same action at the same time. The image below show the concuttent testing.
 =================
->Installation testing -
+>Installation testing - 
 >Regression testing -
 >Re-testing - 
 =================
