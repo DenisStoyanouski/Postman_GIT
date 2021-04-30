@@ -74,11 +74,10 @@ technique uses auto-generated simulation model that checks all the hypothetical 
 >Concurrency testing - testing technique to detect the defects in an application when multiple users are logged in. In other words monitoring
 the effect while multiple users perform the same action at the same time. The image below show the concuttent testing.
 =================
->Installation testing - 
->Regression testing -
->Re-testing - 
+>Regression testing - a type of software testing to confirm that a recent program or code change has not adversely affected existing features.
+>Re-testing - process to check specific test cases that are found with bugs in the final execution.
 =================
->Exploratory testing -
+>Exploratory testing - 
 >Ad hoc - 
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
