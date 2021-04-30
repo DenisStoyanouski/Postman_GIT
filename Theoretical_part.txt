@@ -1,49 +1,80 @@
 Теоретическое задание.
 1) Какие есть виды тестирования. Расписать подробно о каждом.
 
-Static testing - is a testing technique which is used to check defects in software application without executing the code. Includes: Informal reviews,
+>Static testing - is a testing technique which is used to check defects in software application without executing the code. Includes: Informal reviews,
 walkthroughs, technical review, inspection.
 
-Dynamic testing - is a software testing method used to test the dynamic behaviour of software code. The main purpose of dynamic testing is to test software
+>Dynamic testing - is a software testing method used to test the dynamic behaviour of software code. The main purpose of dynamic testing is to test software
 with dynamic variables or variables which are not constant and finding weak areas in software runtime environment.
 =================
-White box testing - technique in which internal structure, design and ciding of software are tested to verify flow of input-output and to improve design,
+>White box testing - technique in which internal structure, design and ciding of software are tested to verify flow of input-output and to improve design,
 usability and security. In white box testing, code is visible to testers.
 
-Black box testing - testing method in which the functionalities of software applications are tested without having knowledge of internal code structure,
+>Black box testing - testing method in which the functionalities of software applications are tested without having knowledge of internal code structure,
 implementation details and internal path. BBT mainly focuses on input and output of software applications and it is entirely based on software requirements 
 and specifications.
 
-Gray box method - is a software testing technique to test a software product or application with partial knowledge of internal structure of the application.
+>Gray box method - is a software testing technique to test a software product or application with partial knowledge of internal structure of the application.
 The purpose of grey box testing is to search and identify the defects due to improper code structure or improper use of applications.
 =================
-Unit testing - is a type of testing where individual units or components of a software are tested. The purpose it ot validate that each unit of software code
+>Unit testing - is a type of testing where individual units or components of a software are tested. The purpose it ot validate that each unit of software code
 performs as expected. Unit tests isolate a section of code and veirfy its correctness.
 
-Integration testing - is defined as a type aof testing where software modules are integrated logically and tested as a group. A typical software
+>Integration testing - is defined as a type aof testing where software modules are integrated logically and tested as a group. A typical software
 project consists of multiple software modules, coded by different programmers. The purpose of this level of testing is to expose defects in the interaction
 between this software modules when they are integrated.
 
-System testing - a test level that focuses on verifying that a systam as a whole meets specified requirements.
+>System testing - a test level that focuses on verifying that a systam as a whole meets specified requirements.
 =================
 smoke testing - testing that covers the main functionality of a component or system to determine whether it works properly before planned testing begins
 =================
-positive testing - is a type of testing which is performed on a software application by providing the valid data sets as an input. It check whether
+>positive testing - is a type of testing which is performed on a software application by providing the valid data sets as an input. It check whether
 the software application behaves as expected with positive inputs or not.
 
-negative testing - a testing method performed on the software application by providing invalid or improper data sets as input. Ti checks whether
+>negative testing - a testing method performed on the software application by providing invalid or improper data sets as input. Ti checks whether
 the software application behaves as expected with the negative or unwanted user inputs.
 =================
-usability testing - testing method for measuring how easy and user-friendly a software application is. Usability testing mainly focuses on user's 
+>usability testing - testing method for measuring how easy and user-friendly a software application is. Usability testing mainly focuses on user's 
 ease of using application, flexibility of application to hadle controls and ability of application too meet its objectives.
 
-accessibility testing - type of ST performed to ensure that the application being tested is usable by people with disabilities like hearing. color blindness,
+>accessibility testing - type of ST performed to ensure that the application being tested is usable by people with disabilities like hearing. color blindness,
 old age and other disadvantaged groups.
 
-interface testing - type which verifies whether the communication between two different software systems is done correctly.
+>interface testing - type which verifies whether the communication between two different software systems is done correctly.
 
-internationalization testing - 
+>internationalization testing (globalization testing) - a software testing method used to ensure that the software application can function in any culture or 
+locale (language, territory or code page) by testing the software functionalities ising each type international input possible.
 
+>localization testing -  a software testing technique in which the behavior of a software is tested for a specific region, local or culture. The purpose of
+doing localization testing for a software is to test appropriate linguistic and culture aspects for a particulat local.
+==================
+Compatibility testing
+
+>Configuration testing - a ST technique in which the SA is tedted with multiple combination in software and and hardware in order to evaluate the functional 
+requirements and find out optimal configuration under which the SA works without any defects or flaws.
+
+>Cross-browser testing - a type of functional test to check that your web application works as expected different browsers.
+=================
+>Performance testing - a type of testing for determining the speed of computer, network or device. It checks the performance of the components of a system
+by passing ifferent parameters in different load scenarios.
+
+>Load testing (Capacity testing) - the process that simulates actual user load on any application or website. It checks how the application behaves during
+normal and high loads. This type of testing is applied when a development project nears to its completion.
+
+>Scalability testing -
+>Volume testing - 
+
+>Stress testing - a type of testing that determines the stability and robustness of the system. It is a non-functional testing technique. This testing
+technique uses auto-generated simulation model that checks all the hypothetical scenarios.
+
+>Concurrency testing 
+=================
+>Installation testing -
+>Regression testing -
+>Re-testing - 
+=================
+>Exploratory testing -
+>Ad hoc - 
 
 2) Что такое авторизация, аутентификация, валидация, идентификация.
 
